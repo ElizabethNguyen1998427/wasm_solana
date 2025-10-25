@@ -68,7 +68,7 @@ solana-fee-calculator = { default-features = false, version = "^2" }
 solana-hash = { default-features = false, version = "^2" }
 solana-instruction = { default-features = false, version = "^2" }
 solana-loader-v2-interface = { default-features = false, version = "^2" }
-solana-loader-v3-interface = { default-features = false, version = "^5" }
+solana-loader-v3-interface = { default-features = false, version = "^6" }
 solana-message = { default-features = false, version = "^2.4" }
 solana-nonce = { default-features = false, version = "^2" }
 solana-program = { default-features = false, version = "^2" }
