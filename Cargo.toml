@@ -94,7 +94,7 @@ solana-transaction-context = { default-features = false, version = "^2" }
 solana-transaction-error = { default-features = false, version = "^2" }
 solana-version = { default-features = false, version = "^2" }
 solana-vote-interface = { default-features = false, version = "^2" }
-solana-zk-token-sdk = { default-features = false, version = "^2" }
+solana-zk-token-sdk = { default-features = false, version = "^3" }
 spl-associated-token-account = { default-features = false, version = "^7" }
 spl-generic-token = { default-features = false, version = "^1" }
 spl-memo = { default-features = false, version = "^6" }
